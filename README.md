@@ -1,5 +1,3 @@
-Junk
-====
 
-Things I wrote, but didn't use, yet don't want to throw out, in case its useful later.
+A text label that renders all caps, but actual capitals shown larger. 
 
